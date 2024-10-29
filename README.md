@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Mohamed-Eldouh
 - 👀 I’m interested in ...continuity in learning programmeng
 - 🌱 I’m currently learning ...c++ 
-- 💞️ I’m looking to collaborate on ...to teach me new things
+- 💞️ I’m looking to collaborate on ...powerful projects
 - 📫 How to reach me ... my insta mohamed_eldouh1
-- 😄 Pronouns: ...he
-- ⚡ Fun fact: ... like to talk to people in english
+- 😄 Pronouns: ...he/him
+- ⚡ Fun fact: ... programming logic
 
 
 <!---
